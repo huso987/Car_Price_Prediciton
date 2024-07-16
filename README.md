@@ -45,6 +45,13 @@ Veri kümesi, araba özelliklerini ve fiyatlarını içeren bir CSV dosyasından
 - highwaympg
 - price
 
+![image](https://github.com/user-attachments/assets/1dfec23e-d23b-40b2-b9ba-e20fe55de689)
+
+![image](https://github.com/user-attachments/assets/74e06994-a87c-42d2-90e5-8309cad068b7)
+
+![image](https://github.com/user-attachments/assets/831dbbc0-26a8-4e59-bfbe-e6ba7e68f846)
+
+
 ## Gereksinimler
 Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyacınız olacak:
 
